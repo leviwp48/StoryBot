@@ -1,2 +1,3 @@
 # StoryBot
-Playing Around with a Discord Bot 
+Playing Around with a Discord Bot in Node.js
+
